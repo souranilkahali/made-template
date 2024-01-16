@@ -1,4 +1,10 @@
-# Methods of Advanced Data Engineering Template Project
+# Title : Correlation between vehicle counting point and with respect to Accident in Cologne
+
+# Description :
+
+In Cologne,we see the vehicle traffic in the recent years.The counting data is collected as nodal electricity counts on a representative key date (Monday - Friday, not on public holidays and outside school holidays).The traffic count is evaluated in 3 time blocks (6 a.m. - 10 a.m., 11 a.m. - 2 p.m. and 3 p.m. - 7 p.m.). The daily traffic is extrapolated from the time blocks using specific factors.
+
+The values ​​can be viewed analogously to the technical term DTVw (average daily traffic on weekdays). The unit is vehicle/24h. The values ​​result in the route loads on the roads leading to the respective junction.
 
 This template project provides some structure for your open data project in the MADE module at FAU.
 This repository contains (a) a data science project that is developed by the student over the course of the semester, and (b) the exercises that are submitted over the course of the semester.
